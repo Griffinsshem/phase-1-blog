@@ -63,8 +63,9 @@ Or you can deploy it to GitHub Pages:
 ```bash
 git clone https://github.com/yourusername/js-king-blog.git
 cd js-king-blog
+```
 
-Tech Stack
+## Tech Stack
 
     - HTML5 – Semantic structure
 
@@ -72,7 +73,7 @@ Tech Stack
 
     - Vanilla JavaScript – DOM manipulation and interactivity
 
- Blog Sections
+## Blog Sections
 
     - Introduction: Why JavaScript remains relevant in 2025
 
@@ -86,7 +87,7 @@ Tech Stack
 
     - Conclusion: JavaScript’s future-proof status
 
- Learning Objectives
+## Learning Objectives
 
    This project helps reinforce:
 
@@ -98,7 +99,7 @@ Tech Stack
 
     - Writing blog-style content for technical audiences
 
- Contributing
+## Contributing
 
    Contributions are welcome! Feel free to open an issue or submit a PR if you want to:
 
@@ -108,12 +109,12 @@ Tech Stack
 
     - Refactor HTML/CSS
 
- Acknowledgments
+## Acknowledgments
 
     - Quotes by Brendan Eich, Douglas Crockford, and other pioneers
 
 
- Contact
+## Contact
 
 Got feedback or questions? Reach out:
 
