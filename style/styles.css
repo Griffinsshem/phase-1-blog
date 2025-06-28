@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #dbd6d6;
+  color: #333;
+  padding: 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  color: #1e88e5;
+  font-size: 2em;
+}
+
+p {
+  font-family: 'Segoe UI';
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.quote-box {
+  margin: 20px 0;
+  padding: 15px;
+  background: #e3f2fd;
+  border-left: 5px solid #1e88e5;
+}
+
+button {
+  background-color: #1e88e5;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #1565c0;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+  }
+
+  .quote-box {
+    font-size: 0.95rem;
+  }
+
+  button {
+    font-size: 0.9rem;
+    padding: 0.6rem 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    padding: 1rem 0.8rem;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 1.15rem;
+  }
+
+  p,
+  .quote-box {
+    font-size: 0.9rem;
+  }
+
+  button {
+    display: block;
+    width: 100%;
+    font-size: 0.95rem;
+  }
+}
